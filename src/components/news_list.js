@@ -9,7 +9,7 @@ const NewsList = (props) =>
         );
     });
     return (
-        <div>
+        <div className="item-container">
             {props.children}
             {items}
         </div>

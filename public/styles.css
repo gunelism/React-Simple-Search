@@ -6,17 +6,26 @@ body,*{
 
 header{
     text-align: center;
-    background: lightcyan;
+    background: #81ad7b;
     margin: 0;
     padding: 1% 0
 }
 .logo{
-    font-style: italic
+    font-style: italic;
+    color: white;
 }
 .red{
-    color: red
+    color: #81ad7b
 }
 
 .active{
-    background: yellowgreen;
+    background: #aee8a6;
+}
+.item-container{
+    padding: 20px;
+}
+.news-item{
+    padding: 3%;
+    height: 100%;
+    border-bottom:1px solid lightgrey;
 }

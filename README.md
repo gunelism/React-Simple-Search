@@ -1,2 +1,2 @@
 Simple search App.
-    -filters JSON data.
+    - filters JSON data.
